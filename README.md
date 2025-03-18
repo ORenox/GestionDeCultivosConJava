@@ -32,23 +32,5 @@
 </p>
 <p align="center"><b>Water Usage Screen</b></p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
-       alt="Java Logo" 
-       width="100" 
-       height="100" 
-       style="border-radius: 50%;">
-  
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
-       alt="GitHub Logo" 
-       width="100" 
-       height="100" 
-       style="border-radius: 50%;">
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" 
-       alt="MongoDB Logo" 
-       width="100" 
-       height="100" 
-       style="border-radius: 50%;">
-</p>
+
 

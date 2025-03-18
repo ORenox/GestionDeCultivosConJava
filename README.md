@@ -10,30 +10,45 @@
 <p align="center">
   <img src="images/loginScreen.png" alt="Pantalla de inicio de sesión">
 </p>
-<p align="center"><b>Pantalla de inicio de sesión</b></p>
+<p align="center"><b>Login Screen</b></p>
 
 <p align="center">
   <img src="images/InterfazDeControlCultivos.png" alt="Interfaz de control de cultivos">
 </p>
-<p align="center"><b>Interfaz de control de cultivos</b></p>
+<p align="center"><b>Crop Control</b></p>
 
 <p align="center">
   <img src="images/RegistrarseScreen.png" alt="Pantalla de registro">
 </p>
-<p align="center"><b>Pantalla de registro</b></p>
+<p align="center"><b>Register Screen</b></p>
 
 <p align="center">
   <img src="images/SesionScreen.png" alt="Pantalla de sesión">
 </p>
-<p align="center"><b>Pantalla de sesión</b></p>
+<p align="center"><b>Logged-in screen</b></p>
 
 <p align="center">
   <img src="images/ControlConsumoAgua.png" alt="Control de consumo de agua">
 </p>
-<p align="center"><b>Control de consumo de agua</b></p>
+<p align="center"><b>Water Usage Screen</b></p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
+       alt="Java Logo" 
+       width="100" 
+       height="100" 
+       style="border-radius: 50%;">
+  
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+       alt="GitHub Logo" 
+       width="100" 
+       height="100" 
+       style="border-radius: 50%;">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" 
+       alt="MongoDB Logo" 
+       width="100" 
+       height="100" 
+       style="border-radius: 50%;">
 </p>
+

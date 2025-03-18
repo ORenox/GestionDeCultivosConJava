@@ -1,4 +1,4 @@
-# GestionDeCultivosConJava
+# Java-Based Crop Management
 * A Java application for crop control using JFrames and Django.
 * I use DAOs to manage the mongo Data base
 * I use the MVC Model–view–controller
